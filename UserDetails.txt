@@ -1,1 +1,6 @@
-This file is being created to show the demo of open source projects
+This file is being created to show the demo of open source projects - 
+
+What does “open source” mean? When a project is open source, that means anybody is free to use, study, modify, and distribute your project for any purpose. These permissions are enforced through an open source license.
+
+
+This text is modified in the branch - nida
